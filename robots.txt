@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://tewivanalede.pages.dev/sitemap.xml
